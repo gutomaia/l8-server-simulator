@@ -34,7 +34,7 @@ https://github.com/l8smartlight/l8-sdk-objc
 
     L8SDKTest, inside the Objective-C SDK.
     
-https://github.com/l8smartlight/l8-sdk-java
+https://github.com/l8smartlight/l8-sdk-android
 
     L8Manager, inside the bundle: “com.l8smartlight.sdk”.
 
